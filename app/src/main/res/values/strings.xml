@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practical Test 02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">Address</string>
+    <string name="client_port">Port</string>
+    <string name="operand1">Operand 1</string>
+    <string name="information_type">Information Type</string>
+    <string name="get_weather_forecast">Apply</string>
+    <string name="operand2">Operand2</string>
+    <string-array name="information_types">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>^</item>
+        <item>%</item>
+    </string-array>
+</resources>
